@@ -1,0 +1,14 @@
+======================================== kinect ========================================
+https://electroniclunch.wordpress.com/2013/01/14/kinect-tutorial-c/
+
+
+======================================== arduino ========================================
+https://forum.arduino.cc/index.php?topic=380888.0
+https://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-bluetooth-module-master-slave-commands/
+https://www.instructables.com/Servo-motor-control-via-bluetooth-with-potentiomet/
+https://www.instructables.com/Robotic-Hand-With-Wireless-Glove-Controlled-NRF24L/
+https://www.instructables.com/Send-Numeric-Data-From-One-Arduino-to-Another/
+https://forum.arduino.cc/index.php?topic=369833.0
+http://arduinolearning.com/amp/code/arduino-and-mma8452-sensor-example.php
+https://gist.github.com/enukane/cd687c06f99090789fae
+https://circuitdigest.com/microcontroller-projects/mpu6050-gyro-sensor-interfacing-with-arduino
