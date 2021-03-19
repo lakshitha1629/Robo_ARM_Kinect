@@ -34,7 +34,7 @@ int main()
 
     /***** POSSIBLE SOURCE OF ERROR: COM PORT MISMATCH *****/
     // open a com port to send data to the Arduino
-    HANDLE porthandle = CreateFile(L"\\\\.\\COM11", GENERIC_READ | GENERIC_WRITE, 0, NULL, OPEN_EXISTING, 0, NULL);
+    HANDLE porthandle = CreateFile(L"\\\\.\\COM7", GENERIC_READ | GENERIC_WRITE, 0, NULL, OPEN_EXISTING, 0, NULL);
     DCB dcbSerialParams;
     GetCommState(porthandle, &dcbSerialParams);
     dcbSerialParams.BaudRate = CBR_9600;
